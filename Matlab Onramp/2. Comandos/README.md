@@ -58,11 +58,14 @@ resultado = 2 + 2
 - Pueden contener letras, números y guion bajo `_`
 - Son sensibles a mayúsculas/minúsculas (`Datos ≠ datos`)
 
-Las variables creadas se almacenan en el **Área de Trabajo** (*Workspace*).
+Las variables creadas se almacena en el **Área de Trabajo** (*Workspace*).
 
----
 
-### [3. Guardar y cargar variables](https://github.com/Additrejo/MathWorks-Academy/tree/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables)
+[Tarea 1:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/2.%20Asignar%20nombre%20a%20variables/Tarea2_1.m)
+![alt text](<2. Asignar nombre a variables/Tarea 2.2.1.jpg>)
+
+[Tarea 2:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/2.%20Asignar%20nombre%20a%20variables/Tarea2_1.m)
+![alt text](<2. Asignar nombre a variables/Tarea 2.2.2.jpg>)
 
 ```matlab
 % Limpiar el área de trabajo
@@ -77,6 +80,10 @@ save miArchivo.mat
 load miArchivo.mat
 ```
 
+---A
+
+### [3. Guardar y cargar variables](https://github.com/Additrejo/MathWorks-Academy/tree/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables)
+
 | Comando | Descripción |
 |---------|-------------|
 | `clear` | Elimina todas las variables del workspace |
@@ -84,6 +91,22 @@ load miArchivo.mat
 | `clc` | Limpia el texto de la ventana de comandos |
 | `save nombre.mat` | Guarda el workspace en un archivo `.mat` |
 | `load nombre.mat` | Carga variables desde un archivo `.mat` |
+
+
+[Tarea 1:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables/Tarea3_1.m)
+![alt text](<3. Guardar y cargar variables/img/Tarea 2.3.1.jpg>)
+
+[Tarea 2:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables/Tarea2_3_2.m)
+![alt text](<3. Guardar y cargar variables/img/Tarea 2.3.2.jpg>)
+
+[Tarea 3:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables/Tarea2_3_3.m)
+![alt text](<3. Guardar y cargar variables/img/Tarea 2.3.3.jpg>)
+
+[Tarea 4:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables/Tarea2_3_4.m)
+![alt text](<3. Guardar y cargar variables/img/Tarea 2.3.4.jpg>)
+
+[Tarea 5:](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/2.%20Comandos/3.%20Guardar%20y%20cargar%20variables/Tarea2_3_5.m)
+![alt text](<3. Guardar y cargar variables/img/Tarea 2.3.5.jpg>)
 
 ---
 

@@ -76,6 +76,16 @@ disp(z)
 > 💡 Puedes ejecutar solo una sección haciendo clic dentro de ella y presionando `Ctrl + Enter`.
 
 ---
+# Tareas
+
+[Tarea: 1](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/3.%20MATLAB%20Desktop%20y%20MATLAB%20Editor/2.%20MATLAB%20Editor/Tarea3_2_1.m)
+![alt text](<2. MATLAB Editor/img/Tarea 3.2.1 Matlab editor.jpg>)
+
+[Tarea: 2](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/3.%20MATLAB%20Desktop%20y%20MATLAB%20Editor/2.%20MATLAB%20Editor/Tarea3_2_2.m)
+![alt text](<2. MATLAB Editor/img/Tarea 3.2.2 Matlab editor.jpg>)
+
+
+---
 
 ### [3. Ejecutar Scripts](https://github.com/Additrejo/MathWorks-Academy/tree/main/Matlab%20Onramp/3.%20MATLAB%20Desktop%20y%20MATLAB%20Editor/3.%20MATLAB%20Ejecutar%20scripts)
 
@@ -110,6 +120,12 @@ radio = 5;
 area = pi * radio^2;
 disp(area)
 ```
+
+---
+# Tareas
+
+[Tarea: 1](https://github.com/Additrejo/MathWorks-Academy/blob/main/Matlab%20Onramp/3.%20MATLAB%20Desktop%20y%20MATLAB%20Editor/3.%20MATLAB%20Ejecutar%20scripts/Tarea%203_3_1.m)
+![alt text](<3. MATLAB Ejecutar scripts/img/Tarea 3.3.1.jpg>)
 
 ---
 
@@ -172,6 +188,11 @@ MATLAB analiza el código automáticamente y muestra advertencias con líneas on
 | `F5` (en debug) | Continue (continuar ejecución) |
 | `Ctrl + R` | Comentar líneas seleccionadas |
 | `Ctrl + T` | Descomentar líneas seleccionadas |
+
+---
+# Tareas
+[Tarea 1:]()
+![alt text](<4. Depurar código de Matlab/img/TAREA 3.4.1.jpg>)
 
 ---
 
