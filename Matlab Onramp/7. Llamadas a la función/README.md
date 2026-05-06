@@ -107,28 +107,19 @@ sum(M, 2)   % → [6; 15]   (suma por fila)
 
 # Tareas
 
-[Tarea 1](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_1.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.1.jpg>)
+[Tarea 1](<Solicitar multiples salidas en llamadas a la función/Tarea7_1_1.m>)  
+![alt text](<Solicitar multiples salidas en llamadas a la función/img/Task 7.1.1.jpg>)
 
-[Tarea 2](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_2.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.2.jpg>)
+[Tarea 2](<Solicitar multiples salidas en llamadas a la función/Tarea7_1_2.m>)  
+![alt text](<Solicitar multiples salidas en llamadas a la función/img/Task 7.1.2.jpg>)
 
-[Tarea 3](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_3.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.3.jpg>)
+[Tarea 3](<Solicitar multiples salidas en llamadas a la función/Tarea7_1_3.m>)  
+![alt text](<Solicitar multiples salidas en llamadas a la función/img/Task 7.1.3.jpg>)  
 
-[Tarea 4](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_4.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.4.jpg>)
+[Seguir prácticando](<Solicitar multiples salidas en llamadas a la función/TareaSeguir_aprendiendo.m>)  
+![Seguir practicando](<Solicitar multiples salidas en llamadas a la función/img/Task Seguir practicando.jpg>)
 
-[Tarea 5](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_5.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.5.jpg>)
-
-[Tarea 6](<1. Realizar Operaciones de arreglos en vectores/Tarea6_1_6.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea 6.1.6.jpg>)
-
-[Seguir practicando](<1. Realizar Operaciones de arreglos en vectores/Tarea6_Seguir_practicando.m>)  
-![alt text](<1. Realizar Operaciones de arreglos en vectores/img/Tarea Seguir aprendiendo.jpg>)
-
-***NOTA:** Se debe usar el archivo [text](<1. Realizar Operaciones de arreglos en vectores/data.txt>) para poder correr los programas.
+***NOTA:** Se debe usar el archivo [Data](<Solicitar multiples salidas en llamadas a la función/data.txt>) para poder correr los programas.
 
 ---
 

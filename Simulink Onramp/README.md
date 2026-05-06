@@ -35,13 +35,13 @@ Aprenda los conceptos basicos sobre como crear, editar y simular modelos en Simu
 
 ---
 
-### 1. Vision general del curso
+### [1. Vision general del curso](https://github.com/Additrejo/MathWorks-Academy/tree/main/Simulink%20Onramp/Course%20Overview)
 
 Descubra el poder de Simulink Onramp.
 
 **Lecciones:**
 - Vision general del curso
-- Ejecucion de simulaciones
+- [Ejecucion de simulaciones](https://github.com/Additrejo/MathWorks-Academy/tree/main/Simulink%20Onramp/Course%20Overview/Running%20Simulations)
 
 ---
 
