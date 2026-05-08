@@ -154,3 +154,5 @@ sum(M, 2)   % → [6; 15]   (suma por fila)
 ---
 
 *Parte del curso [MATLAB Onramp](https://matlabacademy.mathworks.com/es/details/matlab-onramp/gettingstarted) — © MathWorks*
+
+.-
